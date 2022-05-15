@@ -3,7 +3,7 @@ This repo is a collection of small programs and instructions in Octave. </br>
 You can [download octave here](https://www.gnu.org/software/octave/download) </br>
 
 ### Contents:
-#### 1. Declaring a variable
+#### 1. [Declaring a variable](https://github.com/SharpAdder/Octave/blob/main/declare-variable.m)
 #### 2. Hiding display of variable
 #### 3. comments
 #### 4. the : operator
