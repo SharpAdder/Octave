@@ -4,7 +4,7 @@ You can [download octave here](https://www.gnu.org/software/octave/download) </b
 
 ### Contents:
 #### 1. [Declaring a variable](https://github.com/SharpAdder/Octave/blob/main/declare-variable.m)
-#### 2. Hiding display of variable
+#### 2. [Hiding display of variable](https://github.com/SharpAdder/Octave/blob/main/hide_var_output.m)
 #### 3. comments
 #### 4. the : operator
 #### 5. display formats
